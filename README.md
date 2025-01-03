@@ -14,7 +14,7 @@ Welcome to the **Goodcabs Data Insights and Performance Analysis** project repos
 - [📂 Repository Contents](#repository-contents)  
 - [📋 Steps Followed](#steps-followed)  
 - [💡 Recommendations](#recommendations)   
-- [📜 License](#license)  
+- [📜 Live Dashboard](#live-dashboard)  
 - [📝 Contact](#contact)  
 
 ---
@@ -73,8 +73,7 @@ Goodcabs is a cab service provider specializing in tier-2 cities in India. The c
 - `SQL-Scripts/`: SQL queries for data extraction and transformation.  
 - `PowerBI-Report/`: Power BI report file for visualizations (`Goodcabs_Report.pbix`).  
 - `Presentation/`: Business presentation with insights and recommendations.  
-- `Documentation/`: Detailed process steps and methodology.  
-- `Data-Sample/`: Sample datasets for replication and testing.  
+- `Live-Dashboard/`: Link for the live dashboard.  
 
 ---
 
@@ -107,6 +106,10 @@ Goodcabs is a cab service provider specializing in tier-2 cities in India. The c
    - Optimize fleet routes using predictive analytics.  
 6. **Employee Incentives**:  
    - Introduce rewards for achieving monthly targets.  
+
+---
+
+Live Dashboard - Click here to view the dashboard
 
 ---
 
