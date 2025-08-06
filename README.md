@@ -109,14 +109,7 @@ Goodcabs is a cab service provider specializing in tier-2 cities in India. The c
 
 ---
 
-**Live Dashboard** - [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjZkODNkYTQtNGRkNy00NzdlLThlNjAtMGFmMDBlMTU5YzkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+## Live Dashboard  
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiODk0NjNjMGYtYTQ2Mi00M2ZlLWE3ZDEtMGQ0ZTYzN2JkZmQwIiwidCI6IjVjMGNmMWQwLTZhNjItNGY4Ny1iYWI2LWEwZGE1MmYwZTNmZiJ9)
 
 ---
-
-## 📝 **Contact**
-Feel free to reach out for questions or feedback:
-
-- Name: **Ganesh Gadekar**
-- Email: **ganesh.gadekar474@gmail.com**
-- GitHub: https://github.com/grgadekar
